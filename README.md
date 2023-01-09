@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Fasai_Sae-Tae_Resume.pdf](https://github.com/atomfasai/atomfasai/files/10373292/Fasai_Sae-Tae_Resume.pdf)
 
 <!--
 **atomfasai/atomfasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
